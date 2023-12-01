@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "dhruva",
+        "Actor": "RamCharan",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/53/Dhruva_Telugu_film_poster.jpg"      
+    },
+    {
+        "id": 2,
+        "title": "rrr",
+        "Actor": "NTR",
+        "image": "https://m.media-amazon.com/images/M/MV5BMGFjZjEwM2MtMmExZC00MWNiLTkzMDEtMWZkMjAzOTUxODRhXkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_.jpg"
+    },
+    {
+        "id": 3,
+        "title": "businessman",
+        "Actor": "mahesh babu",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDRlNzk5OWUtNTIwNi00MDhmLThhYTctMTQ2OGM3NWU1ZTU5XkEyXkFqcGdeQXVyMzc5Nzk1NDY@._V1_.jpg"
+    },
+    {
+        "id": 4,
+        "title": "mission impossible",
+        "Actor": "Tom cruise",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzFiZjc1YzctMDY3Zi00NGE5LTlmNWEtN2Q3OWFjYjY1NGM2XkEyXkFqcGdeQXVyMTUyMTUzNjQ0._V1_.jpg"
+    }
+]
